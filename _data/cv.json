@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Byeong Cheol Lee",
+    "email": "bc6817@gmail.com",
+    "phone": "(+82)10-6817-7817",
+    "website": "https://2btlFe.github.io",
+    "summary": "Master's student in SKKU, advised by Jae-Pil Heo",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Suwon",
+      "countryCode": "KR",
       "region": ""
     },
     "profiles": [
@@ -25,38 +25,29 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "2btlFe",
+        "url": "https://github.com/2btlFe"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Sungunkwan University (SKKU)",
+      "area": "M.S. in Aritificial Intelligence",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2025.03",
+      "endDate": "2027.02",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Sungunkwan University (SKKU)",
+      "area": "B.S. in Electronic Electrical Engineering / Computer Science and Engineering (Double Major)",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "startDate": "2019.03",
+      "endDate": "2025.02",
+      "gpa": "4.08/4.5",
       "courses": []
     }
   ],
