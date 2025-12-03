@@ -11,26 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S in Artificial Intelligence, Sungkyunkwan University (SKKU), 2027.02 (expected)
+* B.S. in Electronic Electronic Engineering / Computer Science and Engineering (Double Major), Sungkyunkwan University (SKKU), 2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Current: Graduate Researcher
+  * Sungkyunkwan University (SKKU)
+  * Research Interests: Open-Vocabulary Semantic Segmentation
+  * Supervisor: Jae-Pil Heo
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feburary 2023: Sergent
+  * Republic Of Korea Air Force
+  * Duties includes: Radar Maintanence
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
+
   
 Skills
 ======
