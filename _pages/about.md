@@ -15,7 +15,6 @@ My recent work explores **training-free Open-Vocabulary Semantic Segmentation** 
 
 <!-- I have submitted a first-author paper titled  
 **“Training-free Open-Vocabulary Dense Prediction using Global-Local Alignment”** to a top-tier vision conference, where I demonstrate how expanding CLIP’s receptive field enables more accurate segmentation without additional supervision. :contentReference[oaicite:1]{index=1} -->
-
 ---
 
 ## 🔍 Research Interests
