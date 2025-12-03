@@ -23,13 +23,13 @@ repository               : "2btlFe/2btlFe.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my_img.jpg"
+  avatar           : my_img.jpg
   name             : "Byeong Cheol Lee"
-  pronouns         : "he/his"  
+  pronouns         : "he/him"  
   bio              : "Master Course Student in SKKU"
   location         : "Suwon"
   employer         : "Sungkyunkwan University (SKKU)"
-  uri              : # URL
+  uri              : "2btlFe.github.io"
   email            : "bc6817@gmail.com" 
 
   # Academic websites
