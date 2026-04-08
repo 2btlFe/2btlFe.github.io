@@ -24,25 +24,29 @@ I am **Byeong Cheol Lee**, a master's student in Artificial Intelligence at **Su
 
 ---
 
-## Current Projects
+## Publications
 
-I am part of the national initiative **“Research on improving intelligent command and control capabilities based on generative AI and real-time 3D digital twin construction.”** My role covers:
+<div style="display:flex; align-items:flex-start; margin-bottom:2em; gap:1.2em;">
+  <div style="flex:0 0 200px;">
+    <img src="/images/gla-clip-teaser.png" alt="GLA-CLIP" style="width:200px; border:1px solid #ddd;" />
+  </div>
+  <div style="flex:1;">
+    <strong><a href="/publication/2026-global-local-aligned-clip">Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation</a></strong><br/>
+    <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em><br/>
+    <strong>ByeongCheol Lee</strong>, Hyun Seok Seong, Sangeek Hyun, Gilhan Park, WonJun Moon, Jae-Pil Heo<br/>
+    <a href="https://arxiv.org/abs/2603.23030">[arXiv]</a> &nbsp;
+    <a href="https://github.com/2btlFe/GLA-CLIP">[GitHub]</a>
+  </div>
+</div>
 
-- Building high-resolution **remote-sensing segmentation pipelines**
-- Constructing **3D maps** from drone imagery using **COLMAP** and **3D Gaussian Splatting**
-- Adapting **open-vocabulary models** for dense prediction tasks
-
----
-
-## Past Experience
-
-- **Detection of AI-based Fake Investigation and Tip Videos** (Oct 2023 – May 2024)  
-  Project member focused on forgery image generation and dataset management for deepfake detection.
-
-- **Republic of Korea Air Force (Sergeant, Radar Maintenance)** (May 2021 – Feb 2023)  
-  Maintained and monitored radar equipment; handled routine inspections and troubleshooting.
-
----
-
-
-
+<div style="display:flex; align-items:flex-start; margin-bottom:2em; gap:1.2em;">
+  <div style="flex:0 0 200px;">
+    <img src="/images/pdf-gs-teaser.png" alt="PDF-GS" style="width:200px; border:1px solid #ddd;" />
+  </div>
+  <div style="flex:1;">
+    <strong><a href="/publication/2026-pdf-gs">PDF-GS: Progressive Distractor Filtering for Robust 3D Gaussian Splatting</a></strong><br/>
+    <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026 [Findings]</em><br/>
+    Kangmin Seo, MinKyu Lee, Tae-Young Kim, <strong>ByeongCheol Lee</strong>, JoonSeoung An, Jae-Pil Heo<br/>
+    <a href="https://github.com/kangrnin/PDF-GS">[GitHub]</a>
+  </div>
+</div>
