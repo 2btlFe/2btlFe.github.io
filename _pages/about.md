@@ -15,15 +15,6 @@ I am **Byeong Cheol Lee**, a master's student in Artificial Intelligence at **Su
 
 ---
 
-## Research Interests
-
-- Open-vocabulary semantic segmentation (OVSS)
-- Open-vocabulary dense prediction
-- Domain-generalized semantic segmentation
-- 3D reconstruction and Gaussian splatting
-
----
-
 ## Publications
 
 <div style="display:flex; align-items:flex-start; margin-bottom:2em; gap:1.2em;">
