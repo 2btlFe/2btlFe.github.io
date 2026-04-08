@@ -6,6 +6,8 @@ excerpt: "Training-free open-vocabulary semantic segmentation via global-local a
 date: 2026-06-01
 venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026"
 authors: "ByeongCheol Lee, Hyun Seok Seong, Sangeek Hyun, Gilhan Park, WonJun Moon, Jae-Pil Heo"
+paperurl: "https://arxiv.org/abs/2603.23030"
+github: "https://github.com/2btlFe/GLA-CLIP"
 citation: "ByeongCheol Lee, Hyun Seok Seong, Sangeek Hyun, Gilhan Park, WonJun Moon, and Jae-Pil Heo. \"Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation.\" In CVPR 2026."
 ---
 

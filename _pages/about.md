@@ -9,6 +9,8 @@ redirect_from:
 
 ## Welcome!
 
+[📄 Download CV (PDF)](/files/Resume_ByeongCheolLee_2026.pdf){: .btn .btn--info}
+
 I am **Byeong Cheol Lee**, a master's student in Artificial Intelligence at **Sungkyunkwan University (SKKU)** advised by **Prof. Jae-Pil Heo**. I work on **computer vision** with a focus on **open-vocabulary dense prediction**—teaching models to segment and detect unseen concepts without task-specific training. My current experiments explore expanding CLIP's receptive field and improving feature upsampling for dense prediction.
 
 ---
