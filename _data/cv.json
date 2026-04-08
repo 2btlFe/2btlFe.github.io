@@ -10,134 +10,154 @@
       "postalCode": "",
       "city": "Suwon",
       "countryCode": "KR",
-      "region": ""
+      "region": "Gyeonggi-do"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
+        "username": "PS_CX0AAAAAJ",
         "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
       },
       {
         "network": "GitHub",
         "username": "2btlFe",
         "url": "https://github.com/2btlFe"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "byeong-cheol-lee-637311202",
+        "url": "https://www.linkedin.com/in/byeong-cheol-lee-637311202"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "IITP (Institute of Information & Communications Technology Planning and Evaluation)",
+      "position": "Research Project Member",
+      "startDate": "2024-07",
+      "endDate": "Present",
+      "summary": "Research on improving intelligent command and control capabilities based on generative AI and real-time 3D digital twin construction",
+      "highlights": [
+        "Semantic Segmentation Developer, 3D Reconstruction Developer",
+        "Drone Imagery based 3D Reconstruction (COLMAP & 3D Gaussian Splatting)",
+        "Remote-Sensing Image Semantic Segmentation",
+        "Open-Vocabulary Semantic Segmentation"
+      ]
+    },
+    {
+      "company": "Korean National Police Agency & Ministry of Science and ICT",
+      "position": "Research Project Member",
+      "startDate": "2023-10",
+      "endDate": "2024-05",
+      "summary": "Detection of AI-based Fake Investigation and Tip Videos ($2.2M project)",
+      "highlights": [
+        "Forgery Image Developer, Research Data Manager",
+        "Deepfake detection / Video forgery detection",
+        "Video inpainting / Video-to-video translation"
+      ]
+    },
+    {
+      "company": "Smart Maritime Logistics ICT Mentoring & Startup Audition",
+      "position": "Co-Founder & Developer",
+      "startDate": "2020-05",
+      "endDate": "2020-12",
+      "summary": "Software development and startup management",
+      "highlights": [
+        "Kalman filter based GNSS development",
+        "Android app development",
+        "Accounting and financial management"
+      ]
+    },
+    {
+      "company": "Republic of Korea Air Force (ROKAF)",
+      "position": "Sergeant",
+      "startDate": "2021-05",
+      "endDate": "2023-02",
+      "summary": "Military service",
+      "highlights": [
+        "Radar maintenance and monitoring duties",
+        "Routine inspections and troubleshooting for radar equipment"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "Sungunkwan University (SKKU)",
-      "area": "M.S. in Aritificial Intelligence",
-      "studyType": "",
+      "institution": "Sungkyunkwan University (SKKU)",
+      "area": "Artificial Intelligence",
+      "studyType": "Master of Science",
       "startDate": "2025.03",
-      "endDate": "2027.02",
+      "endDate": "Present",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "Sungunkwan University (SKKU)",
-      "area": "B.S. in Electronic Electrical Engineering / Computer Science and Engineering (Double Major)",
-      "studyType": "",
+      "institution": "Sungkyunkwan University (SKKU)",
+      "area": "Electronic Electrical Engineering / Computer Science and Engineering (Double Major)",
+      "studyType": "Bachelor of Science",
       "startDate": "2019.03",
       "endDate": "2025.02",
       "gpa": "4.08/4.5",
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": ["Python", "C/C++"]
+    },
+    {
+      "name": "Frameworks / Tools",
+      "level": "",
+      "keywords": ["PyTorch", "Git", "Docker", "Slurm"]
+    },
+    {
+      "name": "Editors / Shell",
+      "level": "",
+      "keywords": ["VSCode", "Vim"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Korean",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Computer Vision",
+      "keywords": [
+        "Open-Vocabulary Semantic Segmentation",
+        "Domain-Generalized Semantic Segmentation",
+        "Dense Prediction",
+        "Zero-Shot Segmentation via VFM",
+        "Feature Upsampling",
+        "3D Gaussian Splatting"
+      ]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation",
+      "publisher": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "releaseDate": "2026-06-01",
+      "website": "",
+      "summary": "ByeongCheol Lee, Hyun Seok Seong, Sangeek Hyun, Gilhan Park, WonJun Moon, and Jae-Pil Heo"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "PDF-GS: Progressive Distractor Filtering for Robust 3D Gaussian Splatting",
+      "publisher": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) [Findings]",
+      "releaseDate": "2026-06-01",
+      "website": "",
+      "summary": "Kangmin Seo, MinKyu Lee, Tae-Young Kim, ByeongCheol Lee, JoonSeoung An, and Jae-Pil Heo"
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
