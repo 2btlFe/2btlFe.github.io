@@ -5,6 +5,7 @@ permalink: /publication/2026-global-local-aligned-clip
 excerpt: "Training-free open-vocabulary semantic segmentation via global-local alignment of CLIP features without task-specific supervision."
 date: 2026-06-01
 venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026"
+category: conferences
 authors: "ByeongCheol Lee, Hyun Seok Seong, Sangeek Hyun, Gilhan Park, WonJun Moon, Jae-Pil Heo"
 paperurl: "https://arxiv.org/abs/2603.23030"
 github: "https://github.com/2btlFe/GLA-CLIP"
