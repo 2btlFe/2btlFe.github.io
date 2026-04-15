@@ -11,7 +11,10 @@ redirect_from:
 
 [📄 Download CV (PDF)](/files/Resume_ByeongCheolLee_2026.pdf){: .btn .btn--info}
 
+<div>
 I am **Byeong Cheol Lee**, a master's student in Artificial Intelligence at **Sungkyunkwan University (SKKU)** advised by **Prof. Jae-Pil Heo**. I work on computer vision with a focus on open-vocabulary semantic segmentation, feature upsampling, domain generalized semantic segmentation.
+</div>
+
 ---
 
 ## News
