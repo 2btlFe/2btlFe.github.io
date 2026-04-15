@@ -19,11 +19,12 @@ I am **Byeong Cheol Lee**, a master's student in Artificial Intelligence at **Su
 
 ## News
 <div>
-🎉(Fab 21, 2026) Our paper "Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation" is accepted to CVPR 2026! Thanks to Hyun Seok Seong, Sangeek Hyun, Gilhan Park, WonJun Moon, Jae-Pil Heo.
+🎉(Fab 21, 2026) "Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation" is accepted to CVPR 2026! Thanks to Hyun Seok Seong, Sangeek Hyun, Gilhan Park, WonJun Moon, Jae-Pil Heo.
 </div>
 <div>
-🎉(Fab 21, 2026) Our paper "PDF-GS: Progressive Distractor Filtering for Robust 3D Gaussian Splatting" is accepted to CVPR Findings 2026! Thanks to Kangmin Seo. 
+🎉(Fab 21, 2026) "PDF-GS: Progressive Distractor Filtering for Robust 3D Gaussian Splatting" is accepted to CVPR Findings 2026. Congratulation, Kangmin Seo!
 </div>
+<div>
 🎉(Dec 26, 2025) Granted the Graduate Excellence Scholarship (STEM)
 </div>
 
