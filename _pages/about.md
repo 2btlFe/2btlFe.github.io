@@ -11,7 +11,18 @@ redirect_from:
 
 [📄 Download CV (PDF)](/files/Resume_ByeongCheolLee_2026.pdf){: .btn .btn--info}
 
-I am **Byeong Cheol Lee**, a master's student in Artificial Intelligence at **Sungkyunkwan University (SKKU)** advised by **Prof. Jae-Pil Heo**. I work on **computer vision** with a focus on **open-vocabulary dense prediction**—teaching models to segment and detect unseen concepts without task-specific training. My current experiments explore expanding CLIP's receptive field and improving feature upsampling for dense prediction.
+I am **Byeong Cheol Lee**, a master's student in Artificial Intelligence at **Sungkyunkwan University (SKKU)** advised by **Prof. Jae-Pil Heo**. I work on computer vision with a focus on open-vocabulary semantic segmentation, feature upsampling, domain generalized semantic segmentation.
+---
+
+## News
+<div>
+🎉(Fab 21, 2026) Our paper "Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation" is accepted to CVPR 2026! Thanks to Hyun Seok Seong, Sangeek Hyun, Gilhan Park, WonJun Moon, Jae-Pil Heo.
+</div>
+<div>
+🎉(Fab 21, 2026) Our paper "PDF-GS: Progressive Distractor Filtering for Robust 3D Gaussian Splatting" is accepted to CVPR Findings 2026! Thanks to Kangmin Seo. 
+</div>
+🎉(Dec 26, 2025) Granted the Graduate Excellence Scholarship (STEM)
+</div>
 
 ---
 
@@ -38,6 +49,7 @@ I am **Byeong Cheol Lee**, a master's student in Artificial Intelligence at **Su
     <strong><a href="/publication/2026-pdf-gs">PDF-GS: Progressive Distractor Filtering for Robust 3D Gaussian Splatting</a></strong><br/>
     <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026 [Findings]</em><br/>
     Kangmin Seo, MinKyu Lee, Tae-Young Kim, <strong>ByeongCheol Lee</strong>, JoonSeoung An, Jae-Pil Heo<br/>
+    <a href="https://arxiv.org/abs/2604.12580">[arXiv]</a> &nbsp;
     <a href="https://github.com/kangrnin/PDF-GS">[GitHub]</a>
   </div>
 </div>
