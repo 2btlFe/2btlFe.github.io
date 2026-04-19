@@ -42,6 +42,7 @@ I am Byeong Cheol Lee, a master course student in Artificial Intelligence at Sun
     <strong>ByeongCheol Lee</strong>, Hyun Seok Seong, Sangeek Hyun, Gilhan Park, WonJun Moon, Jae-Pil Heo<br/>
     <a href="https://arxiv.org/abs/2603.23030">[arXiv]</a> &nbsp;
     <a href="https://github.com/2btlFe/GLA-CLIP">[GitHub]</a>
+    <a href="https://2btlfe.github.io/GLA-CLIP">[Project]</a>
   </div>
 </div>
 
@@ -55,5 +56,6 @@ I am Byeong Cheol Lee, a master course student in Artificial Intelligence at Sun
     Kangmin Seo, MinKyu Lee, Tae-Young Kim, <strong>ByeongCheol Lee</strong>, JoonSeoung An, Jae-Pil Heo<br/>
     <a href="https://arxiv.org/abs/2604.12580">[arXiv]</a> &nbsp;
     <a href="https://github.com/kangrnin/PDF-GS">[GitHub]</a>
+    <a href="https://kangrnin.github.io/PDF-GS">[Project]</a>
   </div>
 </div>
