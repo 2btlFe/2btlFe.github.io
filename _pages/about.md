@@ -19,6 +19,9 @@ I am Byeong Cheol Lee, a master course student in Artificial Intelligence at Sun
 
 ## News
 <div>
+🎉(Oct 05, 2026) Joined Nota AI GmbH as a Research Intern.
+</div>
+<div>
 🎉(Feb 21, 2026) "Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation" is accepted to CVPR 2026! Thanks to Hyun Seok Seong, Sangeek Hyun, Gilhan Park, WonJun Moon, Jae-Pil Heo.
 </div>
 <div>
