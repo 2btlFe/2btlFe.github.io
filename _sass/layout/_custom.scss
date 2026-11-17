@@ -1,0 +1,46 @@
+/* ==========================================================================
+   Custom components for the home page
+   ========================================================================== */
+
+/* Publication card: thumbnail on the left, details on the right.
+   On narrow or portrait (taller than wide) screens the thumbnail goes
+   on the first row and the details on the second row. */
+.pub-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.2em;
+  margin-bottom: 2em;
+
+  &__thumb {
+    flex: 0 0 200px;
+
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+      border: 1px solid var(--global-border-color);
+    }
+  }
+
+  &__body {
+    flex: 1;
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
+
+  &__links a {
+    display: inline-block;
+    margin-right: 0.6em;
+  }
+
+  @media (max-width: $small), (orientation: portrait) {
+    flex-direction: column;
+    gap: 0.8em;
+
+    &__thumb {
+      flex-basis: auto;
+      width: 100%;
+      max-width: 420px;
+    }
+  }
+}

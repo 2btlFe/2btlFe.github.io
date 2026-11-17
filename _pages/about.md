@@ -35,30 +35,34 @@ I am Byeong Cheol Lee, a master course student in Artificial Intelligence at Sun
 
 ## Publications
 
-<div style="display:flex; align-items:flex-start; margin-bottom:2em; gap:1.2em;">
-  <div style="flex:0 0 200px;">
-    <img src="/images/gla-clip-teaser.png" alt="GLA-CLIP" style="width:200px; border:1px solid #ddd;" />
+<div class="pub-card">
+  <div class="pub-card__thumb">
+    <img src="/images/gla-clip-teaser.png" alt="GLA-CLIP" />
   </div>
-  <div style="flex:1;">
+  <div class="pub-card__body">
     <strong><a href="/publication/2026-global-local-aligned-clip">Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation</a></strong><br/>
     <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em><br/>
     <strong>ByeongCheol Lee</strong>, Hyun Seok Seong, Sangeek Hyun, Gilhan Park, WonJun Moon, Jae-Pil Heo<br/>
-    <a href="https://arxiv.org/abs/2603.23030">[arXiv]</a> &nbsp;
-    <a href="https://github.com/2btlFe/GLA-CLIP">[GitHub]</a> &nbsp;
+    <span class="pub-card__links">
+    <a href="https://arxiv.org/abs/2603.23030">[arXiv]</a>
+    <a href="https://github.com/2btlFe/GLA-CLIP">[GitHub]</a>
     <a href="https://2btlfe.github.io/GLA-CLIP">[Project]</a>
+    </span>
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; margin-bottom:2em; gap:1.2em;">
-  <div style="flex:0 0 200px;">
-    <img src="/images/pdf-gs-teaser.png" alt="PDF-GS" style="width:200px; border:1px solid #ddd;" />
+<div class="pub-card">
+  <div class="pub-card__thumb">
+    <img src="/images/pdf-gs-teaser.png" alt="PDF-GS" />
   </div>
-  <div style="flex:1;">
+  <div class="pub-card__body">
     <strong><a href="/publication/2026-pdf-gs">PDF-GS: Progressive Distractor Filtering for Robust 3D Gaussian Splatting</a></strong><br/>
     <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026 [Findings]</em><br/>
     Kangmin Seo, MinKyu Lee, Tae-Young Kim, <strong>ByeongCheol Lee</strong>, JoonSeoung An, Jae-Pil Heo<br/>
-    <a href="https://arxiv.org/abs/2604.12580">[arXiv]</a> &nbsp;
-    <a href="https://github.com/kangrnin/PDF-GS">[GitHub]</a> &nbsp;
+    <span class="pub-card__links">
+    <a href="https://arxiv.org/abs/2604.12580">[arXiv]</a>
+    <a href="https://github.com/kangrnin/PDF-GS">[GitHub]</a>
     <a href="https://kangrnin.github.io/PDF-GS">[Project]</a>
+    </span>
   </div>
 </div>
