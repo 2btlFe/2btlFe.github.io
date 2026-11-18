@@ -40,7 +40,7 @@ I am Byeong Cheol Lee, a master course student in Artificial Intelligence at Sun
     <img src="/images/gla-clip-teaser.png" alt="GLA-CLIP" />
   </div>
   <div class="pub-card__body">
-    <strong><a href="/publication/2026-global-local-aligned-clip">Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation</a></strong><br/>
+    <strong class="pub-card__title"><a href="/publication/2026-global-local-aligned-clip">Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation</a></strong><br/>
     <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em><br/>
     <strong>ByeongCheol Lee</strong>, Hyun Seok Seong, Sangeek Hyun, Gilhan Park, WonJun Moon, Jae-Pil Heo<br/>
     <span class="pub-card__links">
@@ -56,7 +56,7 @@ I am Byeong Cheol Lee, a master course student in Artificial Intelligence at Sun
     <img src="/images/pdf-gs-teaser.png" alt="PDF-GS" />
   </div>
   <div class="pub-card__body">
-    <strong><a href="/publication/2026-pdf-gs">PDF-GS: Progressive Distractor Filtering for Robust 3D Gaussian Splatting</a></strong><br/>
+    <strong class="pub-card__title"><a href="/publication/2026-pdf-gs">PDF-GS: Progressive Distractor Filtering for Robust 3D Gaussian Splatting</a></strong><br/>
     <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026 [Findings]</em><br/>
     Kangmin Seo, MinKyu Lee, Tae-Young Kim, <strong>ByeongCheol Lee</strong>, JoonSeoung An, Jae-Pil Heo<br/>
     <span class="pub-card__links">

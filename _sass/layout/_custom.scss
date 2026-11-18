@@ -28,6 +28,21 @@
     overflow-wrap: anywhere;
   }
 
+  /* Paper title: theme text color (black in light mode), semi-bold, no underline */
+  &__title {
+    font-weight: 600;
+
+    a,
+    a:visited {
+      color: var(--global-text-color);
+      text-decoration: none;
+    }
+
+    a:hover {
+      color: var(--global-link-color);
+    }
+  }
+
   &__links a {
     display: inline-block;
     margin-right: 0.6em;
